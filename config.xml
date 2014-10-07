@@ -15,12 +15,12 @@
     <icon gap:density="xxhdpi" gap:platform="android" src="res/icon/android/icon-144-xxhdpi.png" />
     <icon gap:density="xxxhdpi" gap:platform="android" src="res/icon/android/icon-192-xxxhdpi.png" />
 
-    <gap:splash gap:density="ldpi" gap:platform="android" src="res/screen/android/splashimg-ldpi.9.png" />
+   <!--  <gap:splash gap:density="ldpi" gap:platform="android" src="res/screen/android/splashimg-ldpi.9.png" />
     <gap:splash gap:density="mdpi" gap:platform="android" src="res/screen/android/splashimg-mdpi.9.png" />
     <gap:splash gap:density="hdpi" gap:platform="android" src="res/screen/android/splashimg-mdpi.9.png" />
     <gap:splash gap:density="xhdpi" gap:platform="android" src="res/screen/android/splashimg-xhdpi.9.png" />
     <gap:splash gap:density="xxhdpi" gap:platform="android" src="res/screen/android/splashimg-xhdpi.9.png" />
-    <gap:splash gap:density="xxxhdpi" gap:platform="android" src="res/screen/android/splashimg-xhdpi.9.png" />
+    <gap:splash gap:density="xxxhdpi" gap:platform="android" src="res/screen/android/splashimg-xhdpi.9.png" /> -->
     
     <!-- <icon gap:platform="ios" height="57" src="res/icon/ios/icon-57.png" width="57" />
     <icon gap:platform="ios" height="72" src="res/icon/ios/icon-72.png" width="72" />

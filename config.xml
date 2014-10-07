@@ -66,7 +66,7 @@
     <gap:plugin name="net.tunts.webintent" />
 
     <gap:plugin name="com.simplec.plugins.powermanagement" />
-    <gap:plugin name="org.apache.cordova.network-information" version="0.2.7" />
+    <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="nl.x-services.plugins.socialsharing" />
     <gap:plugin name="org.li8.inappbrowser" version="0.1" />
 

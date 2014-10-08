@@ -67,7 +67,7 @@
 
     <gap:plugin name="com.simplec.plugins.powermanagement" />
     <gap:plugin name="org.apache.cordova.network-information" />
-    <gap:plugin name="nl.x-services.plugins.socialsharing" />
+    <!-- <gap:plugin name="nl.x-services.plugins.socialsharing" /> -->
     <gap:plugin name="org.li8.inappbrowser" version="0.1" />
 
 
@@ -75,7 +75,7 @@
 
 
     <access origin="http://127.0.0.1*" />
-    <access origin="http://www.dajogo.com.br/*" />
+    <access origin="http://www.dajogo.com.br/*" subdomains="true" />
     <content src="index.html" />
 
 

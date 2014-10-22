@@ -67,8 +67,8 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <!-- <gap:plugin name="nl.x-services.plugins.socialsharing" /> -->
     <gap:plugin name="org.li8.inappbrowser" />
-    <gap:plugin name="com.phonegap.plugins.pushplugin" />
     <gap:plugin name="com.adobe.plugins.gaplugin" />
+    <gap:plugin name="com.phonegap.plugins.pushplugin" />
 
 
     <access origin="http://127.0.0.1*" />

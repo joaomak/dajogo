@@ -69,7 +69,7 @@
     <gap:plugin name="org.li8.inappbrowser" />
     <gap:plugin name="com.adobe.plugins.gaplugin" />
     <gap:plugin name="com.phonegap.plugins.pushplugin" />
-
+    <gap:plugin name="org.apache.cordova.media" version="0.2.13" />
 
     <access origin="http://127.0.0.1*" />
     <access origin="http://www.dajogo.com.br/*" subdomains="true" />
